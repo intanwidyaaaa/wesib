@@ -1,0 +1,6 @@
+@import "@fortawesom/fontawesome-free/css/all.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
